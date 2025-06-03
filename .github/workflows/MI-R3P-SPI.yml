@@ -113,8 +113,8 @@ jobs:
       with:
         ccache: 'false'
         clean: 'false'
-        mixkey: 'mipsel'
-        prefix: ${{ github.workspace }}/lede-actions/openwrt
+        mixkey: 'mipsle'
+        prefix: ${{ github.workspace }}/openwrt
         
     - name: Load custom feeds
       run: |
