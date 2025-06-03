@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/hdfla/lede
-  REPO_BRANCH: mi-r3p-spi
+  REPO_BRANCH: mtwifi-enhanced
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: MI-R3P-SPI.config
   DIY_P1_SH: diy-part1.sh
